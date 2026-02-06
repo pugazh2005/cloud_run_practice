@@ -23,7 +23,7 @@ on:
 
 env:
   GCP_REGION: us-east1
-  ARTIFACT_REGISTRY: /my-docker-repo
+  ARTIFACT_REGISTRY: my-docker-repo
   SERVICE_NAME: fastapi-service
 
 jobs:
